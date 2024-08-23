@@ -1,6 +1,8 @@
 package main
 
-import "praticando/goroutines"
+import (
+	"praticando/estruturas_dados"
+)
 
 func main() {
 	// fmt.Println("Hello, World!")
@@ -14,5 +16,22 @@ func main() {
 	// goroutines.ChamaChannels()
 	// goroutines.ChamaChannels()
 	// goroutines.ChamaBuffered()
-	goroutines.ChamarSelect()
+	// goroutines.ChamarSelect()
+	// sintaxe.RetornoLimpo()
+	// sintaxe.VariaveisComInicializadores()
+	// tiposbasicos.TiposBasicos()
+	// sintaxe.Constates()
+	// constantes.EvitaMagicaDeCodigo()
+	// forfluxo.ForPadrao()
+	// forfluxo.ForContinuacao()
+	// iffluxo.IfComDeclaracao()
+	// formatacoes.Verbos()
+	// switchfluxo.SwitchExemplo()
+	// switchfluxo.SwitchSemCondicao()
+	// deferfluxo.ChamadaComDefer()
+	// tiposbasicos.NilTipo()
+	// ponteiros.Ponteiros()
+	// estruturas_dados.SliceExample()
+	// estruturas_dados.SlicesComMake()
+	estruturas_dados.SlicesSlices()
 }
