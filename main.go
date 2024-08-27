@@ -1,7 +1,7 @@
 package main
 
 import (
-	"praticando/estruturas_dados"
+	"praticando/interfaces"
 )
 
 func main() {
@@ -33,5 +33,12 @@ func main() {
 	// ponteiros.Ponteiros()
 	// estruturas_dados.SliceExample()
 	// estruturas_dados.SlicesComMake()
-	estruturas_dados.SlicesSlices()
+	// estruturas_dados.SlicesSlices()
+	// metodos.Metodos()
+	// metodos.MetodosContinuacao()
+	// metodos.MetodosPonteiros()
+	// metodos.MetodosPonteirosExplicado()
+	// interfaces.Interface()
+	// interfaces.InterfacesValores()
+	interfaces.InterfacesValoresNil()
 }
