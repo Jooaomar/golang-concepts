@@ -18,7 +18,7 @@ func mostrarPessoas(pessoas []Pessoa) {
 }
 
 func ExibirEstruturaDeDados() {
-	// arrays
+	// arrays (matrizes)
 	var numeros [5]int
 	numeros[0] = 10
 	numeros[1] = 20

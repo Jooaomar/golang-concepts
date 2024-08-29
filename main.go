@@ -1,7 +1,7 @@
 package main
 
 import (
-	"praticando/interfaces"
+	"praticando/recursividade"
 )
 
 func main() {
@@ -40,5 +40,18 @@ func main() {
 	// metodos.MetodosPonteirosExplicado()
 	// interfaces.Interface()
 	// interfaces.InterfacesValores()
-	interfaces.InterfacesValoresNil()
+	// interfaces.InterfacesValoresNil()
+	// interfaces.InterfacesVazia()
+	// interfaces.ValoresInterfaceNil()
+	// interfaces.TypeAssertions()
+	// interfaces.TypeSwitches()
+	// interfaces.TypeSwitches()
+	// interfaces.Stringers()
+	// errorstype.ErrorExemplo()
+	// parametros.Parametros()
+	// goroutines.ChannelExemplo2()
+	// goroutines.ChannelsClose()
+	// goroutines.SelectDefault()]
+	// mutex.MutexExemplo()
+	recursividade.Recursividade()
 }

@@ -39,4 +39,9 @@ func Verbos() {
 	// Exemplo de %p - Endereço de memória
 	p := &idade
 	fmt.Printf("Endereço de memória de 'idade': %p\n", p) // Exemplo de saída: Endereço de memória de 'idade': 0xc0000160d8
+
+	// Exemplo de %q - Exibição de Valores Literais
+	cores := []string{"Vermelho", "Verde", "Azul"}
+	fmt.Printf("As cores são: %q\n", cores) // As cores são: ["Vermelho" "Verde" "Azul"]
+
 }
